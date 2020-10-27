@@ -516,6 +516,9 @@ footer p{
     .mobile-center{
         text-align: center;
     }
+    footer{
+        text-align: center;
+    }
     .left-border, .mobile-border{
         height: 2.5rem;
         /* border-left: 0.15rem dashed var(--primary) ; */
